@@ -16,7 +16,7 @@
 - 💡 Passionate about software development, web technologies and databases
 - 🔭 Currently looking for an **internship** to start my professional journey
 - 🌱 Always learning new technologies and improving my skills
-- 📫 How to reach me: **javiercrespoberland@gmail.com**
+- 📫 How to reach me: **jcrespoberland@gmail.com**
 
 ---
 
@@ -27,7 +27,7 @@
 - 💡 Apasionado por el desarrollo de software, las tecnologías web y las bases de datos
 - 🔭 Actualmente buscando **prácticas en empresa** para dar mi primer paso profesional
 - 🌱 En constante aprendizaje de nuevas tecnologías
-- 📫 Contacto: **javiercrespoberland@gmail.com**
+- 📫 Contacto: **jcrespoberland@gmail.com**
 
 ---
 
@@ -104,7 +104,7 @@
 ## 📫 Contact · Contacto
 
 <p align="center">
-  <a href="mailto:javiercrespoberland@gmail.com">
+  <a href="mailto:jcrespoberland@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/JavierCresp0">
