@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering Student · Estudiante de Ingeniería Informática</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Studying%203rd%20year-blue?style=for-the-badge" alt="Studying 3rd year"/>
+  <img src="https://img.shields.io/badge/Status-Final%20year%20student-blue?style=for-the-badge" alt="Final year student"/>
   <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge" alt="Open to internships"/>
   <img src="https://img.shields.io/badge/Location-Spain-red?style=for-the-badge" alt="Spain"/>
 </p>
@@ -11,7 +11,7 @@
 
 ## 🇬🇧 About me
 
-- 🎓 **3rd year** Computer Engineering student at **Universidad Miguel Hernández** (Spain)
+- 🎓 **Final-year (4th)** Computer Engineering student at **Universidad Miguel Hernández** (Spain)
 - 🌍 **First year (2022) completed abroad** at **Politécnico de Leiria** (Portugal) — international exchange program
 - 💡 Passionate about software development, web technologies and databases
 - 🔭 Currently looking for an **internship** to start my professional journey
@@ -22,7 +22,7 @@
 
 ## 🇪🇸 Sobre mí
 
-- 🎓 Cursando **3º de Ingeniería Informática** en la **Universidad Miguel Hernández** (España)
+- 🎓 Cursando **4º (último curso) de Ingeniería Informática** en la **Universidad Miguel Hernández** (España)
 - 🌍 **Primer año (2022) cursado en Portugal** en el **Politécnico de Leiria** — programa de intercambio internacional
 - 💡 Apasionado por el desarrollo de software, las tecnologías web y las bases de datos
 - 🔭 Actualmente buscando **prácticas en empresa** para dar mi primer paso profesional
