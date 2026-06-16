@@ -110,8 +110,9 @@
   <a href="https://github.com/JavierCresp0">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <!-- LinkedIn coming soon -->
-  <img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-lightgrey?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn coming soon"/>
+  <a href="https://www.linkedin.com/in/javier-crespo-berland/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 <p align="center">
