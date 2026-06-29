@@ -58,11 +58,17 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Concepts
-`OOP` · `Data Structures` · `Algorithms` · `Relational Databases` · `Parallel Computing` · `Concurrent Programming` · `Mobile Development` · `UML / Software Engineering` · `Statistics` · `Linear Programming` · `UI/UX Design`
+`Agentic AI / LLMs` · `OOP` · `Data Structures` · `Algorithms` · `Relational Databases` · `Parallel Computing` · `Concurrent Programming` · `Mobile Development` · `UML / Software Engineering` · `Statistics` · `Linear Programming` · `UI/UX Design`
 
 ---
 
 ## 📂 Featured Projects · Proyectos destacados
+
+### ⭐ Personal Project
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🤖 [**ai-data-analyst**](https://github.com/JavierCresp0/ai-data-analyst) | **Agentic AI** data analyst: answers natural-language questions about a dataset using Claude tool use, an agentic loop & prompt caching | `Python` `Claude API` `Agentic AI` `pandas` |
 
 ### 📱 Applications & Systems
 
