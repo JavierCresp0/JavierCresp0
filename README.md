@@ -75,7 +75,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | 📱 [**mis-tickets-android**](https://github.com/JavierCresp0/mis-tickets-android) | Android app to manage expense tickets by categories — full CRUD with SQLite | `Android` `Java` `SQLite` |
-| 🎬 [**netflix-ui-clone**](https://github.com/JavierCresp0/netflix-ui-clone) | Netflix-inspired desktop user interface | `C#` `.NET` `WPF` |
+| 🎬 [**netflix-ui-clone**](https://github.com/JavierCresp0/netflix-ui-clone) | Netflix-style desktop app: login, profile picker, catalogue, animated side menu and video player | `C#` `.NET` `WPF` |
 | 🌐 [**aplicaciones-web-java**](https://github.com/JavierCresp0/aplicaciones-web-java) | Web server deployment & administration: JSP on Apache Tomcat, HTTPS with a self-made CA, and IIS (lab reports) | `Tomcat` `JSP` `HTTPS` `IIS` |
 | 💻 [**tecnologias-web**](https://github.com/JavierCresp0/tecnologias-web) | Frontend practices: HTML, CSS, JavaScript, XML/XSD & form validation | `HTML` `CSS` `JS` `XML` |
 
