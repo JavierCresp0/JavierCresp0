@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="204" viewBox="0 0 620 204" role="img" aria-labelledby="t d">
+  <title id="t">Most used languages</title>
+  <desc id="d">C 24.1%, Java 19.1%, HTML 10.0%, CSS 9.5%, PHP 7.9%, Python 7.8%, R 6.7%, C++ 4.6%, Other 10.3%</desc>
+  <style>
+    .card { fill: #1a1b27; stroke: #2f3146; }
+    .title { font: 600 17px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #70a5fd; }
+    .sub { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #8b93b8; }
+    .lang { font: 500 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #c9d1ee; }
+    .pct { font: 400 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #8b93b8; }
+  </style>
+  <rect class="card" x="0.5" y="0.5" width="619" height="203" rx="10"/>
+  <text class="title" x="26" y="38">Most used languages · Lenguajes más usados</text>
+  <text class="sub" x="26" y="58">13 public projects · share of code by size</text>
+  <clipPath id="bar"><rect x="26" y="78" width="568" height="12" rx="6"/></clipPath>
+  <g clip-path="url(#bar)">
+    <rect x="26.00" y="78" width="137.52" height="12" fill="#8a8f98"/>
+    <rect x="163.02" y="78" width="109.16" height="12" fill="#b07219"/>
+    <rect x="271.69" y="78" width="57.08" height="12" fill="#e34c26"/>
+    <rect x="328.27" y="78" width="54.43" height="12" fill="#7e57c2"/>
+    <rect x="382.20" y="78" width="45.60" height="12" fill="#7a86c2"/>
+    <rect x="427.30" y="78" width="45.07" height="12" fill="#3572A5"/>
+    <rect x="471.87" y="78" width="38.44" height="12" fill="#198CE7"/>
+    <rect x="509.81" y="78" width="26.44" height="12" fill="#f34b7d"/>
+    <rect x="535.74" y="78" width="58.76" height="12" fill="#6e7681"/>
+  </g>
+  <circle cx="32.0" cy="113.5" r="5.5" fill="#8a8f98"/><text class="lang" x="46.0" y="118">C</text><text class="pct" x="193.3" y="118" text-anchor="end">24.1 %</text>
+  <circle cx="221.3" cy="113.5" r="5.5" fill="#b07219"/><text class="lang" x="235.3" y="118">Java</text><text class="pct" x="382.7" y="118" text-anchor="end">19.1 %</text>
+  <circle cx="410.7" cy="113.5" r="5.5" fill="#e34c26"/><text class="lang" x="424.7" y="118">HTML</text><text class="pct" x="572.0" y="118" text-anchor="end">10.0 %</text>
+  <circle cx="32.0" cy="139.5" r="5.5" fill="#7e57c2"/><text class="lang" x="46.0" y="144">CSS</text><text class="pct" x="193.3" y="144" text-anchor="end">9.5 %</text>
+  <circle cx="221.3" cy="139.5" r="5.5" fill="#7a86c2"/><text class="lang" x="235.3" y="144">PHP</text><text class="pct" x="382.7" y="144" text-anchor="end">7.9 %</text>
+  <circle cx="410.7" cy="139.5" r="5.5" fill="#3572A5"/><text class="lang" x="424.7" y="144">Python</text><text class="pct" x="572.0" y="144" text-anchor="end">7.8 %</text>
+  <circle cx="32.0" cy="165.5" r="5.5" fill="#198CE7"/><text class="lang" x="46.0" y="170">R</text><text class="pct" x="193.3" y="170" text-anchor="end">6.7 %</text>
+  <circle cx="221.3" cy="165.5" r="5.5" fill="#f34b7d"/><text class="lang" x="235.3" y="170">C++</text><text class="pct" x="382.7" y="170" text-anchor="end">4.6 %</text>
+  <circle cx="410.7" cy="165.5" r="5.5" fill="#6e7681"/><text class="lang" x="424.7" y="170">Other</text><text class="pct" x="572.0" y="170" text-anchor="end">10.3 %</text>
+</svg>

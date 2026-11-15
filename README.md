@@ -100,11 +100,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Languages · Lenguajes
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JavierCresp0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierCresp0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="assets/languages.svg" alt="Most used languages across my public projects: C, Java, HTML, CSS, PHP, Python, R and C++" />
 </p>
 
 ---
