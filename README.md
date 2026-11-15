@@ -39,6 +39,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -76,6 +77,7 @@
 |---------|-------------|------|
 | 📱 [**mis-tickets-android**](https://github.com/JavierCresp0/mis-tickets-android) | Android app to manage expense tickets by categories — full CRUD with SQLite | `Android` `Java` `SQLite` |
 | 🎬 [**netflix-ui-clone**](https://github.com/JavierCresp0/netflix-ui-clone) | Netflix-style desktop app: login, profile picker, catalogue, animated side menu and video player | `C#` `.NET` `WPF` |
+| 🏍️ [**taller-motos-php**](https://github.com/JavierCresp0/taller-motos-php) | Motorcycle workshop management: clients, bikes, parts & invoices, with prepared statements, CSRF protection and an AJAX query | `PHP` `MySQL` `PDO` `JS` |
 | 🌐 [**aplicaciones-web-java**](https://github.com/JavierCresp0/aplicaciones-web-java) | Web server deployment & administration: JSP on Apache Tomcat, HTTPS with a self-made CA, and IIS (lab reports) | `Tomcat` `JSP` `HTTPS` `IIS` |
 | 💻 [**tecnologias-web**](https://github.com/JavierCresp0/tecnologias-web) | Frontend practices: HTML, CSS, JavaScript, XML/XSD & form validation | `HTML` `CSS` `JS` `XML` |
 
