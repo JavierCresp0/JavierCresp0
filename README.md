@@ -49,6 +49,8 @@
 
 ### Frameworks / Tools
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -75,11 +77,11 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 📱 [**mis-tickets-android**](https://github.com/JavierCresp0/mis-tickets-android) | Android app to manage expense tickets by categories — full CRUD with SQLite | `Android` `Java` `SQLite` |
+| 📱 [**mis-tickets-android**](https://github.com/JavierCresp0/mis-tickets-android) | Android app to manage expense tickets by categories — full CRUD with SQLite, plus Flutter and React Native versions | `Android` `Java` `SQLite` `Flutter` `React Native` |
 | 🎬 [**netflix-ui-clone**](https://github.com/JavierCresp0/netflix-ui-clone) | Netflix-style desktop app: login, profile picker, catalogue, animated side menu and video player | `C#` `.NET` `WPF` |
 | 🏍️ [**taller-motos-php**](https://github.com/JavierCresp0/taller-motos-php) | Motorcycle workshop management: clients, bikes, parts & invoices, with prepared statements, CSRF protection and an AJAX query | `PHP` `MySQL` `PDO` `JS` |
 | 🌐 [**aplicaciones-web-java**](https://github.com/JavierCresp0/aplicaciones-web-java) | Web server deployment & administration: JSP on Apache Tomcat, HTTPS with a self-made CA, and IIS (lab reports) | `Tomcat` `JSP` `HTTPS` `IIS` |
-| 💻 [**tecnologias-web**](https://github.com/JavierCresp0/tecnologias-web) | Frontend practices: HTML, CSS, JavaScript, XML/XSD & form validation | `HTML` `CSS` `JS` `XML` |
+| 💻 [**tecnologias-web**](https://github.com/JavierCresp0/tecnologias-web) | Frontend practices: HTML, CSS, JavaScript, XML/XSD & form validation — [live demo](https://javiercresp0.github.io/tecnologias-web/03-Sitio-Web/) | `HTML` `CSS` `JS` `XML` |
 
 ### 🧠 Algorithms & Systems Programming
 
@@ -87,7 +89,7 @@
 |---------|-------------|------|
 | ⚙️ [**algoritmos-cpp**](https://github.com/JavierCresp0/algoritmos-cpp) | Classical algorithms: Dijkstra, 0/1 Knapsack with backtracking, greedy & divide-and-conquer | `C++` |
 | 🐧 [**sistemas-operativos-c**](https://github.com/JavierCresp0/sistemas-operativos-c) | Linux systems programming: fork, pipes, shared memory, POSIX semaphores | `C` `Linux` `Bash` |
-| ⚡ [**computacion-paralela**](https://github.com/JavierCresp0/computacion-paralela) | Parallel computing with MPI (distributed) and OpenMP (shared memory) | `C` `MPI` `OpenMP` |
+| ⚡ [**computacion-paralela**](https://github.com/JavierCresp0/computacion-paralela) | Parallel computing with MPI (distributed) and OpenMP (shared memory), from the sequential baselines to the speedup analysis | `C` `MPI` `OpenMP` |
 | 🐍 [**estructuras-datos-python**](https://github.com/JavierCresp0/estructuras-datos-python) | Abstract Data Types (ADTs) and data structures from scratch | `Python` |
 
 ### 🧮 Data & Foundations
