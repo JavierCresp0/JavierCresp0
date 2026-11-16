@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Status-Final%20year%20student-blue?style=for-the-badge" alt="Final year student"/>
   <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge" alt="Open to internships"/>
   <img src="https://img.shields.io/badge/Location-Spain-red?style=for-the-badge" alt="Spain"/>
+  <a href="https://github.com/JavierCresp0/JavierCresp0/blob/main/cv/CV-Javier-Crespo.pdf"><img src="https://img.shields.io/badge/CV-PDF-0d47a1?style=for-the-badge" alt="CV (PDF)"/></a>
 </p>
 
 ---
@@ -113,6 +114,9 @@
 ## 📫 Contact · Contacto
 
 <p align="center">
+  <a href="https://github.com/JavierCresp0/JavierCresp0/blob/main/cv/CV-Javier-Crespo.pdf">
+    <img src="https://img.shields.io/badge/CV-PDF-0d47a1?style=for-the-badge" alt="CV (PDF)"/>
+  </a>
   <a href="mailto:jcrespoberland@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
